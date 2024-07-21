@@ -8,7 +8,10 @@
                 <NuxtLink to="/about" class="link" > About </NuxtLink>
             </li>
             <li>
-                <NuxtLink to="/project" class="link" > Project </NuxtLink>
+                <NuxtLink to="/project" class="link" > Projects </NuxtLink>
+            </li>
+            <li>
+                <NuxtLink to="/blog" class="link" > Blog </NuxtLink>
             </li>
         </ul>
     </nav>
